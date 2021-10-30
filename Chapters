@@ -52,6 +52,22 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/XFJP8MX/"
       },
       "last_updated": "1614682800"
+    },
+        "7": {
+      "title": "The Demon of Echo Gorge",
+      "volume": "2",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/6Tk2qAT/"
+      },
+      "last_updated": "1615287600"
+    },
+        "8": {
+      "title": "Percival the Guinea Pig",
+      "volume": "2",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/p6QOEat/"
+      },
+      "last_updated": "1615892400"
     }
   }
 }
