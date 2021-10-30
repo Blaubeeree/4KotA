@@ -1,0 +1,23 @@
+{
+  "title": "Four Knights of the Apocalypse",
+  "description": "Percival is a kind boy who lives out on the frontier called "Finger of God" along with his grandfather. However, the world was not kind enough to let peace and tranquility last for long. An encounter with a mysterious knight changed their destiny, and a shocking truth comes to light. The boy then sets off on an endless journey.",
+  "author": "Nakaba Suzuki",
+  "cover": "https://i.imgur.com/7eZideN.jpg",
+  "chapters": {
+    "1": {
+      "title": "The Boy's Departure",
+      "volume": "1",
+      "groups": {
+        "Kodansha": "/proxy/api/imgur/chapter/BgnMVa2/"
+      },
+      "last_updated": "1611658800"
+   "2": {
+      "title": "Chance Encounters",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/yJOyBXa/"
+      },
+      "last_updated": "1612263600"
+    },
+  }
+}
