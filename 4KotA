@@ -9,7 +9,7 @@
       "volume": "1",
       "groups": {
         "Kodansha": "/proxy/api/imgur/chapter/BgnMVa2/"
-      }
+      },
       "last_updated": "1611658800"
    "2": {
       "title": "Chance Encounters",
@@ -18,6 +18,6 @@
         "<group name>": "/proxy/api/imgur/chapter/yJOyBXa/"
       },
       "last_updated": "1612263600"
-    },
+    }
   }
 }
