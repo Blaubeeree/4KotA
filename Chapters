@@ -17,25 +17,25 @@
       "title": "Chance Encounters",
       "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/yJOyBXa/"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/yJOyBXa/"
       },
-      "Kodansha Comics": "1612263600"
+      "last_updated": "1612263600"
     },
         "3": {
       "title": "On Father's Trail",
       "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/LSvUuXg/"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/LSvUuXg/"
       },
-      "Kodansha Comics": "1612868400"
+      "last_updated": "1612868400"
     },
         "4": {
       "title": "The Unknown Force",
       "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/TE8aW4f/"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/TE8aW4f/"
       },
-      "Kodansha Comics": "1613386800"
-    },
+      "last_updated": "1613386800"
+    }
   }
 }
