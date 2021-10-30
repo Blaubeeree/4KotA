@@ -68,6 +68,110 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/p6QOEat/"
       },
       "last_updated": "1615892400"
+    },
+        "9": {
+      "title": "Venom-Mixing Boy",
+      "volume": "2",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/YbVwFaC/"
+      },
+      "last_updated": "1616497200"
+    },
+        "10": {
+      "title": "Trampling Upon Their Hearts",
+      "volume": "2",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/Yyr4KhJ/"
+      },
+      "last_updated": "1617098400"
+    },
+        "11": {
+      "title": "Percival's Rage",
+      "volume": "2",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/3SWMOtJ/"
+      },
+      "last_updated": "1617703200"
+    },
+        "12": {
+      "title": "It's Showtime!",
+      "volume": "2",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/rlTofxc/"
+      },
+      "last_updated": "1618308000"
+    },
+        "13": {
+      "title": "A Resolve Further Honed",
+      "volume": "2",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/gF25XTc/"
+      },
+      "last_updated": "1618912800"
+    },
+        "14": {
+      "title": "The Lonely Young Lady",
+      "volume": "2",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/KZyullR/"
+      },
+      "last_updated": "1619517600"
+    },
+        "15": {
+      "title": "Anghalhad and Her Dream",
+      "volume": "3",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/CeZUBXW/"
+      },
+      "last_updated": "1620727200"
+    },
+        "16": {
+      "title": "Sistana Shaken",
+      "volume": "3",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/2CeWtjQ/"
+      },
+      "last_updated": "1621332000"
+    },
+        "17": {
+      "title": "Confrontation with Evil",
+      "volume": "3",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/P1G5GrS/"
+      },
+      "last_updated": "1621936800"
+    },
+        "18": {
+      "title": "Resolve for the Battle",
+      "volume": "3",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/YoIsKyB/"
+      },
+      "last_updated": "1622541600"
+    },
+        "19": {
+      "title": "An Act of Evil",
+      "volume": "3",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/EFWC1Lf/"
+      },
+      "last_updated": "1623146400"
+    },
+        "20": {
+      "title": "The Name of the Magic",
+      "volume": "3",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/LTamcng/"
+      },
+      "last_updated": "1623751200"
+    },
+        "21": {
+      "title": "Hope",
+      "volume": "3",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/e9RgtM0/"
+      },
+      "last_updated": "1624356000"
     }
   }
 }
