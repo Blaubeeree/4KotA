@@ -44,6 +44,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/pzoFVud/"
       },
       "last_updated": "1614078000"
+    },
+        "6": {
+      "title": "The Next Destination",
+      "volume": "2",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/XFJP8MX/"
+      },
+      "last_updated": "1614682800"
     }
   }
 }
