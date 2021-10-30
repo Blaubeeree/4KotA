@@ -1,6 +1,6 @@
 {
   "title": "Four Knights of the Apocalypse",
-  "description": "The series focuses on the young boy Percival, who discovers that he is destined to be part of a group of four knights prophesied to destroy the world.",
+  "description": "Percival is a kind boy who lives out on the frontier called <i>Finger of God</i> along with his grandfather. However, the world was not kind enough to let peace and tranquility last for long. An encounter with a mysterious knight changed their destiny, and a shocking truth comes to light. The boy then sets off on an endless journey.",
   "artist": "Nakaba Suzuki",
   "author": "Nakaba Suzuki",
   "cover": "https://i.imgur.com/7eZideN.jpg",
@@ -11,14 +11,7 @@
       "groups": {
         "Kodansha": "/proxy/api/imgur/chapter/BgnMVa2/"
       },
-      "last_updated": "1611658800"
-   "2": {
-      "title": "Chance Encounters",
-      "volume": "1",
-      "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/yJOyBXa/"
-      },
-      "last_updated": "1612263600"
-    }
+      "last_updated": "1611831600"
+    },
   }
 }
