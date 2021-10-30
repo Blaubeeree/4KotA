@@ -172,6 +172,134 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/e9RgtM0/"
       },
       "last_updated": "1624356000"
+    },
+        "22": {
+      "title": "Young Heroes",
+      "volume": "3",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/7Vszw1q/"
+      },
+      "last_updated": "1624960800"
+    },
+        "23": {
+      "title": "Arthur Pendragon",
+      "volume": "3",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/nugrq8E/"
+      },
+      "last_updated": "1626170400"
+    },
+        "24": {
+      "title": "Who's the Leader?",
+      "volume": "4",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/HR4bTcF/"
+      },
+      "last_updated": "1626775200"
+    },
+        "25": {
+      "title": "A Thrilling Day in Cant",
+      "volume": "4",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/rcFbXFh/"
+      },
+      "last_updated": "1627380000"
+    },
+        "26": {
+      "title": "Uncle and Nephew",
+      "volume": "4",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/92UV4xi/"
+      },
+      "last_updated": "1627984800"
+    },
+        "27": {
+      "title": "Master and Pupil",
+      "volume": "4",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/SKeflgK/"
+      },
+      "last_updated": "1629194400"
+    },
+        "28": {
+      "title": "Roar of Destruction",
+      "volume": "4",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/n02N8lt/"
+      },
+      "last_updated": "1629799200"
+    },
+        "29": {
+      "title": "A Boy's Resolve",
+      "volume": "4",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/4F0Kcpj/"
+      },
+      "last_updated": "1630404000"
+    },
+        "30": {
+      "title": "Raging Storms",
+      "volume": "4",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/0PHBSMd/"
+      },
+      "last_updated": "1631008800"
+    },
+        "31": {
+      "title": "A real Holy Knight",
+      "volume": "4",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/GxbXlsK/"
+      },
+      "last_updated": "1631613600"
+    },
+        "32": {
+      "title": "The Peaks of Fear",
+      "volume": "4",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/oqbPn7y/"
+      },
+      "last_updated": "1632218400"
+    },
+        "33": {
+      "title": "The Evil Feast",
+      "volume": "5",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/gF34DEg/"
+      },
+      "last_updated": "1632823200"
+    },
+        "34": {
+      "title": "True Natures Exposed",
+      "volume": "5",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/jyyp9wd/"
+      },
+      "last_updated": "1633428000"
+    },
+        "35": {
+      "title": "A Sinister Endeavor",
+      "volume": "5",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/5ZiAVIO/"
+      },
+      "last_updated": "1634032800"
+    },
+        "36": {
+      "title": "Cernunnos, the Mystic Beast",
+      "volume": "5",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/Pgl7T74/"
+      },
+      "last_updated": "1634637600"
+    },
+        "37": {
+      "title": "The Cornered",
+      "volume": "5",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/RoJZMM3/"
+      },
+      "last_updated": "1635242400"
     }
   }
 }
