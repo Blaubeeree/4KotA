@@ -300,6 +300,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/RoJZMM3/"
       },
       "last_updated": "1635242400"
+    },
+        "38": {
+      "title": "The Rescue",
+      "volume": "5",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/mlG4Inc/"
+      },
+      "last_updated": "1635850800"
     }
   }
 }
