@@ -308,6 +308,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/mlG4Inc/"
       },
       "last_updated": "1635850800"
+    },
+        "39": {
+      "title": "The Goat Sin",
+      "volume": "5",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/s0XXaAa/"
+      },
+      "last_updated": "1636455600"
     }
   }
 }
