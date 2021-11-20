@@ -316,6 +316,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/s0XXaAa/"
       },
       "last_updated": "1636455600"
+    },
+        "40": {
+      "title": "Dreadful Attackers",
+      "volume": "5",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/LddJ8co/"
+      },
+      "last_updated": "1637060400"
     }
   }
 }
