@@ -318,12 +318,20 @@
       "last_updated": "1636455600"
     },
         "40": {
-      "title": "Dreadful Attackers",
+      "title": "Fearsome Attackers",
       "volume": "5",
       "groups": {
-        "Kodansha Comics": "/proxy/api/imgur/chapter/LddJ8co/"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/CKfRPqg/"
       },
       "last_updated": "1637060400"
+    },
+        "41": {
+      "title": "Fissures",
+      "volume": "5",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/QQEu4hm/"
+      },
+      "last_updated": "1637665200"
     }
   }
 }
