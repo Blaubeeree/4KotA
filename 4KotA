@@ -332,23 +332,6 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/QQEu4hm/"
       },
       "last_updated": "1637665200"
-    },
-        "42": {
-      "title": "The Dark Talismans",
-      "volume": "6",
-      "groups": {
-        "Kodansha Comics": "/proxy/api/imgur/chapter/WuU4PS9/"
-      },
-      "last_updated": "1638270000"
-    },
-        "43": {
-      "title": "The Decisive Battle Unfolds",
-      "volume": "6",
-      "groups": {
-        "Kodansha Comics": "/proxy/api/imgur/chapter/HWJqum6/"
-      },
-      "last_updated": "1638874800"
-    },
     }
   }
 }
