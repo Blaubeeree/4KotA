@@ -348,6 +348,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/HWJqum6/"
       },
       "last_updated": "1638874800"
+    },
+        "44": {
+      "title": "The Lost Children",
+      "volume": "6",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/CPusEf4/"
+      },
+      "last_updated": "1640084400"
     }
   }
 }
