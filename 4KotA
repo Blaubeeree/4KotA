@@ -356,6 +356,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/CPusEf4/"
       },
       "last_updated": "1640084400"
+    },
+        "45": {
+      "title": "The Chivalric Code",
+      "volume": "6",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/NzzKYGD/"
+      },
+      "last_updated": "1641294000"
     }
   }
 }
