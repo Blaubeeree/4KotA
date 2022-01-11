@@ -364,6 +364,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/NzzKYGD/"
       },
       "last_updated": "1641294000"
+    },
+        "46": {
+      "title": "The Realization",
+      "volume": "6",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/k4D6Osh/"
+      },
+      "last_updated": "1641898800"
     }
   }
 }
