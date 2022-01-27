@@ -372,6 +372,22 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/k4D6Osh/"
       },
       "last_updated": "1641898800"
+    },
+        "47": {
+      "title": "Final Blow of Desperation",
+      "volume": "6",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/IHaDym2/"
+      },
+      "last_updated": "1642503600"
+    },
+        "48": {
+      "title": "Departing from Sin",
+      "volume": "6",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/u6qgZOw/"
+      },
+      "last_updated": "1641898800"
     }
   }
 }
