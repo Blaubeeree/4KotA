@@ -388,6 +388,22 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/u6qgZOw/"
       },
       "last_updated": "1643108400"
+    },
+        "49": {
+      "title": "Lancelot",
+      "volume": "6",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/A7ZMsEW/"
+      },
+      "last_updated": "1643713200"
+    },
+        "50": {
+      "title": "Bewilderment",
+      "volume": "6",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/96w7Aur/"
+      },
+      "last_updated": "1644318000"
     }
   }
 }
