@@ -404,6 +404,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/96w7Aur/"
       },
       "last_updated": "1644318000"
+    },
+        "51": {
+      "title": "The King of Liones",
+      "volume": "6",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/tge9UWa/"
+      },
+      "last_updated": "1645441200"
     }
   }
 }
