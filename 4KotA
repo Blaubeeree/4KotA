@@ -417,9 +417,65 @@
       "title": "Meliodas and Percival",
       "volume": "7",
       "groups": {
-        "Kodansha Comics": "/proxy/api/imgur/chapter/96w7Aur/"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/LJvAOWf/"
       },
       "last_updated": "1646132400"
+    },
+        "53": {
+      "title": "Triple Trouble",
+      "volume": "7",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/QZpzkSp/"
+      },
+      "last_updated": "1646737200"
+    },
+        "54": {
+      "title": "Trickery",
+      "volume": "7",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/w2qJt4T/"
+      },
+      "last_updated": "1647342000"
+    },
+        "55": {
+      "title": "Tristan",
+      "volume": "7",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/VvtPbL1/"
+      },
+      "last_updated": "1647946800"
+    },
+        "56": {
+      "title": "Knights of Prophecy meet",
+      "volume": "7",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/4SzxJtN/"
+      },
+      "last_updated": "1648548000"
+    },
+        "57": {
+      "title": "Liones in Panic",
+      "volume": "7",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/aDWKuXf/"
+      },
+      "last_updated": "1649152800"
+    },
+        "58": {
+      "title": "Creeping Omens",
+      "volume": "7",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/d07bfh3/"
+      },
+      "last_updated": "1649757600"
+    },
+        "59": {
+      "title": "Led by the Nose",
+      "volume": "7",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/ezXvGXx/"
+      },
+      "last_updated": "1650362400"
     }
   }
 }
