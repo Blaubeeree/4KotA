@@ -205,6 +205,14 @@
       },
       "last_updated": "1626170400"
     },
+        "23.1": {
+      "title": "Extras",
+      "volume": "3",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/MmMjvH7/"
+      },
+      "last_updated": "1626170400"
+    },
         "24": {
       "title": "Who's the Leader?",
       "volume": "4",
@@ -277,6 +285,14 @@
       },
       "last_updated": "1632218400"
     },
+        "32.1": {
+      "title": "Extras",
+      "volume": "4",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/Uxnc0W4/"
+      },
+      "last_updated": "1632218400"
+    },
         "33": {
       "title": "The Evil Feast",
       "volume": "5",
@@ -338,6 +354,14 @@
       "volume": "5",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/CKfRPqg/"
+      },
+      "last_updated": "1637060400"
+    },
+        "40.1": {
+      "title": "Extras",
+      "volume": "5",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/Zv0HOcf/"
       },
       "last_updated": "1637060400"
     },
@@ -418,6 +442,14 @@
       "volume": "6",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/96w7Aur/"
+      },
+      "last_updated": "1644318000"
+    },
+        "50.1": {
+      "title": "Extras",
+      "volume": "6",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/UA8B1m4/"
       },
       "last_updated": "1644318000"
     },
