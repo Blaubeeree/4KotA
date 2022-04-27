@@ -524,6 +524,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/ezXvGXx/"
       },
       "last_updated": "1650362400"
+    },
+        "60": {
+      "title": "Liones in Flames",
+      "volume": "7",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/dfrzOHt/"
+      },
+      "last_updated": "1650967200"
     }
   }
 }
