@@ -532,6 +532,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/dfrzOHt/"
       },
       "last_updated": "1650967200"
+    },
+        "61": {
+      "title": "The Fourth Arrives",
+      "volume": "7",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/rNR1lCE/"
+      },
+      "last_updated": "1652176800"
     }
   }
 }
