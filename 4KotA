@@ -525,9 +525,17 @@
       },
       "last_updated": "1650362400"
     },
+        "7.1": {
+      "title": "Extras",
+      "volume": "7",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/BWxochq/"
+      },
+      "last_updated": "1650362400"
+    },
         "60": {
       "title": "Liones in Flames",
-      "volume": "7",
+      "volume": "8",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/dfrzOHt/"
       },
@@ -535,7 +543,7 @@
     },
         "61": {
       "title": "The Fourth Arrives",
-      "volume": "7",
+      "volume": "8",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/rNR1lCE/"
       },
