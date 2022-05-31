@@ -564,6 +564,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/XH3KiAJ/"
       },
       "last_updated": "1653386400"
+    },
+        "64": {
+      "title": "Those Seeking Revenge",
+      "volume": "8",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/s2K03GP/"
+      },
+      "last_updated": "1653991200"
     }
   }
 }
