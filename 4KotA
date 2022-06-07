@@ -572,6 +572,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/s2K03GP/"
       },
       "last_updated": "1653991200"
+    },
+        "65": {
+      "title": "The Nightmare Anew",
+      "volume": "8",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/LELDZBo/"
+      },
+      "last_updated": "1653991200"
     }
   }
 }
