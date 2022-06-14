@@ -580,6 +580,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/LELDZBo/"
       },
       "last_updated": "1654596000"
+    },
+        "66": {
+      "title": "The Assessment",
+      "volume": "8",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/KFir9eX/"
+      },
+      "last_updated": "1654596000"
     }
   }
 }
