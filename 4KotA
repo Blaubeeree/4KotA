@@ -588,6 +588,30 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/KFir9eX/"
       },
       "last_updated": "1654596000"
+    },
+        "67": {
+      "title": "The Four Knights of Apocalypse vs. Servant of Chaos",
+      "volume": "8",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/qoj42yF/"
+      },
+      "last_updated": "1656410400"
+    },
+        "68": {
+      "title": "Nephilim",
+      "volume": "8",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/eNG4Brx/"
+      },
+      "last_updated": "1657015200"
+    },
+        "69": {
+      "title": "Those Acting Behind the Scenes",
+      "volume": "8",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/SI2ihvT/"
+      },
+      "last_updated": "1657620000"
     }
   }
 }
