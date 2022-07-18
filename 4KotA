@@ -612,6 +612,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/SI2ihvT/"
       },
       "last_updated": "1657620000"
+    },
+        "70": {
+      "title": "Traitor's Blade",
+      "volume": "8",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/ZwmKeoe/"
+      },
+      "last_updated": "1658224800"
     }
   }
 }
