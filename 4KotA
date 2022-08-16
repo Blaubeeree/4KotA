@@ -605,9 +605,17 @@
       },
       "last_updated": "1657015200"
     },
+        "68.1": {
+      "title": "Volume no. 8: Extras",
+      "volume": "7",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/N10LBtI/"
+      },
+      "last_updated": "1657015200"
+    },
         "69": {
       "title": "Those Acting Behind the Scenes",
-      "volume": "8",
+      "volume": "9",
       "groups": {
         "Fan-translation": "/proxy/api/imgur/chapter/SI2ihvT/"
       },
@@ -615,7 +623,7 @@
     },
         "70": {
       "title": "Traitor's Blade",
-      "volume": "8",
+      "volume": "9",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/ZwmKeoe/"
       },
@@ -631,7 +639,7 @@
     },
         "72": {
       "title": "A Freezing, Burning Heart",
-      "volume": "8",
+      "volume": "9",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/8nFvgC6/"
       },
@@ -639,7 +647,7 @@
     },
         "73": {
       "title": "The demon Melagaland",
-      "volume": "8",
+      "volume": "9",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/3sdu8No/"
       },
