@@ -676,6 +676,22 @@
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/IEJ6S6j/"
       },
       "last_updated": "1662458400"
+    },
+        "77": {
+      "title": "Descent",
+      "volume": "9",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/aVYTtQr/"
+      },
+      "last_updated": "1663063200"
+    },
+        "78": {
+      "title": "Descent",
+      "volume": "9",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/LfxmhRG/"
+      },
+      "last_updated": "1663668000"
     }
   }
 }
