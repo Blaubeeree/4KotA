@@ -700,6 +700,14 @@
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/NZJj3dU/"
       },
       "last_updated": "1664272800"
+    },
+        "80": {
+      "title": "King Arthur vs. Lancelot",
+      "volume": "9",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/OU9ynjT/"
+      },
+      "last_updated": "1665482400"
     }
   }
 }
