@@ -687,7 +687,7 @@
     },
         "78": {
       "title": "A King's Pride",
-      "volume": "9",
+      "volume": "10",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/LfxmhRG/"
       },
@@ -695,7 +695,7 @@
     },
         "79": {
       "title": "Hyperion",
-      "volume": "9",
+      "volume": "10",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/NZJj3dU/"
       },
@@ -703,11 +703,19 @@
     },
         "80": {
       "title": "King Arthur vs. Lancelot",
-      "volume": "9",
+      "volume": "10",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/OU9ynjT/"
       },
       "last_updated": "1665482400"
+    },
+        "81": {
+      "title": "The Battle is Over",
+      "volume": "10",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/FghvbqM/"
+      },
+      "last_updated": "1666087200"
     }
   }
 }
