@@ -357,21 +357,21 @@
       },
       "last_updated": "1637060400"
     },
-        "40.1": {
+        "41": {
+      "title": "Fissures",
+      "volume": "5",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/QQEu4hm/"
+      },
+      "last_updated": "1637665200"
+    },
+        "41.1": {
       "title": "Volume no. 5: Extras",
       "volume": "5",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/Zv0HOcf/"
       },
       "last_updated": "1637060400"
-    },
-        "41": {
-      "title": "Fissures",
-      "volume": "6",
-      "groups": {
-        "Kodansha Comics": "/proxy/api/imgur/chapter/QQEu4hm/"
-      },
-      "last_updated": "1637665200"
     },
         "42": {
       "title": "The Dark Talismans",
