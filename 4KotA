@@ -740,6 +740,14 @@
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/t2BuFZC/"
       },
       "last_updated": "1667991600"
+    },
+        "85": {
+      "title": "Gloom",
+      "volume": "10",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/SJPFBeu/"
+      },
+      "last_updated": "1668596400"
     }
   }
 }
