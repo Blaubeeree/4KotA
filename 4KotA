@@ -756,6 +756,14 @@
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/SJPFBeu/"
       },
       "last_updated": "1668596400"
+    },
+        "86": {
+      "title": "Sprout",
+      "volume": "10",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/NW0MEFA/"
+      },
+      "last_updated": "1669114800"
     }
   }
 }
