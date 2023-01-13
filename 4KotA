@@ -764,6 +764,38 @@
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/NW0MEFA/"
       },
       "last_updated": "1669114800"
+    },
+        "87": {
+      "title": "Guinevere",
+      "volume": "11",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/dPKZdfB/"
+      },
+      "last_updated": "1669723544"
+    },
+        "88": {
+      "title": "Departure",
+      "volume": "11",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/ZJd1yry/"
+      },
+      "last_updated": "1671019544"
+    },
+        "89": {
+      "title": "The Four Knights Set Out!!",
+      "volume": "11",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/DT0Ymd1/"
+      },
+      "last_updated": "1672229144"
+    },
+        "90": {
+      "title": "The Bride's Welcoming",
+      "volume": "11",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/xYb3em3/"
+      },
+      "last_updated": "1673438744"
     }
   }
 }
