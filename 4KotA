@@ -804,6 +804,22 @@
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/xYb3em3/"
       },
       "last_updated": "1673438744"
+    },
+        "91": {
+      "title": "Confrontation",
+      "volume": "11",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/GYVT9Xl/"
+      },
+      "last_updated": "1674644400"
+    },
+        "92": {
+      "title": "Heart-Pounding Wallnack",
+      "volume": "11",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/l9hyZBf/"
+      },
+      "last_updated": "1675249200"
     }
   }
 }
