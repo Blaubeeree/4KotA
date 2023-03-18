@@ -847,7 +847,7 @@
     },
         "96": {
       "title": "Battle City",
-      "volume": "11",
+      "volume": "12",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/0HpC9XE/"
       },
@@ -855,11 +855,19 @@
     },
         "97": {
       "title": "Requiem Ever Ringing",
-      "volume": "11",
+      "volume": "12",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/gvnSaQ4/"
       },
       "last_updated": "1678186800"
+    },
+        "98": {
+      "title": "Impending Death",
+      "volume": "12",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/cUA0K9s/"
+      },
+      "last_updated": "1678791600"
     }
   }
 }
