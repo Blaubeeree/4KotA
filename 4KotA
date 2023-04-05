@@ -876,6 +876,14 @@
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/CQkDuYW/"
       },
       "last_updated": "1679396400"
+    },
+        "100": {
+      "title": "Flames of Remembrance",
+      "volume": "12",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/DXdeRx5/"
+      },
+      "last_updated": "1682676000"
     }
   }
 }
