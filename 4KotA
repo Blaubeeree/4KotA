@@ -892,6 +892,14 @@
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/DXdeRx5/"
       },
       "last_updated": "1682676000"
+    },
+        "101": {
+      "title": "Creaking Hearts",
+      "volume": "12",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/yURJO9Z/"
+      },
+      "last_updated": "1681034400"
     }
   }
 }
