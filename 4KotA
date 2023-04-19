@@ -900,6 +900,14 @@
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/yURJO9Z/"
       },
       "last_updated": "1681034400"
+    },
+        "102": {
+      "title": "Mad King",
+      "volume": "12",
+      "groups": {
+        "Sorcerer Weekly": "/proxy/api/imgur/chapter/FEwi5GM/"
+      },
+      "last_updated": "1681639200"
     }
   }
 }
