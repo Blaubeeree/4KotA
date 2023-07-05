@@ -718,7 +718,7 @@
       "last_updated": "1665482400"
     },
         "81": {
-      "title": "The Battle Is Over...",
+      "title": "After the Brawl...",
       "volume": "10",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/FghvbqM/"
@@ -726,7 +726,7 @@
       "last_updated": "1666087200"
     },
         "82": {
-      "title": "Each and Every Conflict",
+      "title": "Their Respective Conflicts",
       "volume": "10",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/RHSFmpZ/"
@@ -734,7 +734,7 @@
       "last_updated": "1666778400"
     },
         "83": {
-      "title": "Decision to Part",
+      "title": "Prepared to Part Ways",
       "volume": "10",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/gKuDWHx/"
@@ -742,7 +742,7 @@
       "last_updated": "1667332800"
     },
         "84": {
-      "title": "The Changing of an Age",
+      "title": "Transition of an Era",
       "volume": "10",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/t2BuFZC/"
@@ -750,7 +750,7 @@
       "last_updated": "1667991600"
     },
         "85": {
-      "title": "Gloom",
+      "title": "The Gloom",
       "volume": "10",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/SJPFBeu/"
@@ -758,7 +758,7 @@
       "last_updated": "1668596400"
     },
         "86": {
-      "title": "Sprout",
+      "title": "Buddings",
       "volume": "10",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/NW0MEFA/"
@@ -790,7 +790,7 @@
       "last_updated": "1671019544"
     },
         "89": {
-      "title": "The Four Knights Set Out!!",
+      "title": "The Four Knights Set Off!",
       "volume": "11",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/DT0Ymd1/"
@@ -798,7 +798,7 @@
       "last_updated": "1672229144"
     },
         "90": {
-      "title": "The Bride's Welcoming",
+      "title": "The Bride's Greeting",
       "volume": "11",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/xYb3em3/"
@@ -814,7 +814,7 @@
       "last_updated": "1674644400"
     },
         "92": {
-      "title": "Heart-Pounding Wallnack",
+      "title": "The Great Wolnack Search",
       "volume": "11",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/l9hyZBf/"
@@ -830,7 +830,7 @@
       "last_updated": "1675767600"
     },
         "94": {
-      "title": "Incident on the Night of Prayer",
+      "title": "Occurrence on the Night of Prayer",
       "volume": "11",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/eJBg73a/"
@@ -838,7 +838,7 @@
       "last_updated": "1676372400"
     },
         "95": {
-      "title": "Assassins in the Night",
+      "title": "Assassins in the Dark Night",
       "volume": "11",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/RsaMR7n/"
@@ -854,7 +854,7 @@
       "last_updated": "1676977200"
     },
         "96": {
-      "title": "Battle City",
+      "title": "City of Battle",
       "volume": "12",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/0HpC9XE/"
@@ -862,7 +862,7 @@
       "last_updated": "1677582000"
     },
         "97": {
-      "title": "Requiem Ever Ringing",
+      "title": "The Never-Ending Requiem",
       "volume": "12",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/gvnSaQ4/"
@@ -870,7 +870,7 @@
       "last_updated": "1678186800"
     },
         "98": {
-      "title": "Impending Death",
+      "title": "Death Pays a Visit",
       "volume": "12",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/cUA0K9s/"
@@ -878,7 +878,7 @@
       "last_updated": "1678791600"
     },
         "99": {
-      "title": "The Words I Couldn't Say",
+      "title": "Unable to Be Said",
       "volume": "12",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/CQkDuYW/"
@@ -886,7 +886,7 @@
       "last_updated": "1679396400"
     },
         "100": {
-      "title": "Flames of Remembrance",
+      "title": "Flames of Reminiscence",
       "volume": "12",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/DXdeRx5/"
@@ -894,7 +894,7 @@
       "last_updated": "1679911200"
     },
         "101": {
-      "title": "Creaking Hearts",
+      "title": "Shredded Hearts",
       "volume": "12",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/yURJO9Z/"
@@ -902,7 +902,7 @@
       "last_updated": "1681034400"
     },
         "102": {
-      "title": "Mad King",
+      "title": "The Crazed King",
       "volume": "12",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/FEwi5GM/"
@@ -910,7 +910,7 @@
       "last_updated": "1681639200"
     },
         "103": {
-      "title": "Off to the Demon realm",
+      "title": "To the Demon realm",
       "volume": "12",
       "groups": {
         "Sorcerer Weekly": "/proxy/api/imgur/chapter/Hgz0N1w/"
@@ -932,6 +932,62 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/iHTRY5w/"
       },
       "last_updated": "1683712800"
+    },
+        "105": {
+      "title": "A Demonic Welcome",
+      "volume": "13",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/UcGwAis/"
+      },
+      "last_updated": "1684231200"
+    },
+        "106": {
+      "title": "The Savior",
+      "volume": "13",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/Oc6kcKO/"
+      },
+      "last_updated": "1684836000"
+    },
+        "107": {
+      "title": "The Wild Child's Solitude",
+      "volume": "13",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/ompTTL4/"
+      },
+      "last_updated": "1685440800"
+    },
+        "108": {
+      "title": "Calamity Behemoth",
+      "volume": "13",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/opdTvav/"
+      },
+      "last_updated": "1686650400"
+    },
+        "109": {
+      "title": "A Trying Week",
+      "volume": "13",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/3Hh29ET/"
+      },
+      "last_updated": "1687255200"
+    },
+        "110": {
+      "title": "In Pursuit of Strength",
+      "volume": "13",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/pKFCWfp/"
+      },
+      "last_updated": "1687860000"
+    },
+        "111": {
+      "title": "Me Today Over Me Yesterday",
+      "volume": "13",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/oieVar7/"
+      },
+      "last_updated": "1688464800"
     }
   }
 }
