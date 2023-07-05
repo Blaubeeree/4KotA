@@ -689,7 +689,7 @@
       "title": "Volume no. 9: Extras",
       "volume": "9",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/9C59e0a/"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/9C59e0a/"
       },
       "last_updated": "1668596400"
     },
@@ -769,7 +769,7 @@
       "title": "Volume no. 10: Extras",
       "volume": "10",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/gI8Xfh5/"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/gI8Xfh5/"
       },
       "last_updated": "1673866800"
     },
@@ -849,7 +849,7 @@
       "title": "Volume no. 11: Extras",
       "volume": "11",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/oNUKCzb/"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/oNUKCzb/"
       },
       "last_updated": "1676977200"
     },
@@ -921,7 +921,15 @@
       "title": "Intrusion into Demonity",
       "volume": "12",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/x7R1kSq/"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/x7R1kSq/"
+      },
+      "last_updated": "1683712800"
+    },
+        "104.1": {
+      "title": "Volume no. 12: Extras",
+      "volume": "12",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/iHTRY5w/"
       },
       "last_updated": "1683712800"
     }
