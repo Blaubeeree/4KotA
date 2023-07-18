@@ -996,6 +996,14 @@
         "Kodansha Comics": "/proxy/api/imgur/chapter/xsMp717/"
       },
       "last_updated": "1688464800"
+    },
+        "112": {
+      "title": "Wavering Hearts",
+      "volume": "13",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/MzWFWsF/"
+      },
+      "last_updated": "1689084000"
     }
   }
 }
