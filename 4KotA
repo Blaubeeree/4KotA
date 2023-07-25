@@ -5,8 +5,7 @@
   "author": "Nakaba Suzuki",
   "cover": "https://i.imgur.com/7eZideN.jpg",
   "chapters": {
-    "1":
-    {
+    "1": {
       "title": "The Boy's Departure",
       "volume": "1",
       "groups": {
@@ -14,8 +13,7 @@
       },
       "last_updated": "1611572400"
     },
-       "2":
-    {
+       "2": {
       "title": "Chance Encounters",
       "volume": "1",
       "groups": {
@@ -31,8 +29,7 @@
       },
       "last_updated": "1612868400"
     },
-        "4":
-    {
+        "4": {
       "title": "The Unknown Force",
       "volume": "1",
       "groups": {
@@ -48,8 +45,7 @@
       },
       "last_updated": "1614078000"
     },
-        "5.1":
-    {
+        "5.1": {
       "title": "Volume no. 1: Extras",
       "volume": "1",
       "groups": {
