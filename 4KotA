@@ -5,14 +5,6 @@
   "author": "Nakaba Suzuki",
   "cover": "https://i.imgur.com/7eZideN.jpg",
   "chapters": {
-        "0": {
-            "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/BgnMVa2"
-            },
-            "last_updated": 1624606143,
-            "title": "Intro",
-            "volume": "1"
-        }
     "1": {
       "title": "The Boy's Departure",
       "volume": "1",
