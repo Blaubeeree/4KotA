@@ -5,7 +5,8 @@
   "author": "Nakaba Suzuki",
   "cover": "https://i.imgur.com/7eZideN.jpg",
   "chapters": {
-    "1": {
+    "1":
+    {
       "title": "The Boy's Departure",
       "volume": "1",
       "groups": {
@@ -44,6 +45,15 @@
       "volume": "1",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/pzoFVud/"
+      },
+      "last_updated": "1614078000"
+    },
+        "5.1":
+    {
+      "title": "Volume no. 1: Extras",
+      "volume": "1",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/zcurXCt/"
       },
       "last_updated": "1614078000"
     },
