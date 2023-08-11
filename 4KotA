@@ -1,6 +1,6 @@
 {
   "title": "Four Knights of the Apocalypse",
-  "description": "Percival is a kind boy who lives out in a place called “God's Finger” along with his grandfather. However, the world was not kind enough to let peace and tranquility last for long. An encounter with a mysterious knight changed their destiny, and a shocking truth comes to light. The boy then sets off on an endless journey.",
+  "description": "Percival is a kind boy who lives out in a place called « God's Finger » along with his grandfather. However, the world was not kind enough to let peace and tranquility last for long. An encounter with a mysterious knight changed their destiny, and a shocking truth comes to light. The boy then sets off on an endless journey. \n\n Subreddit: https://www.reddit.com/r/NanatsunoTaizai \n Discord: https://discord.gg/Qwc8Pde",
   "artist": "Nakaba Suzuki",
   "author": "Nakaba Suzuki",
   "cover": "https://i.imgur.com/7eZideN.jpg",
@@ -8,938 +8,930 @@
     "1": {
       "title": "The Boy's Departure",
       "volume": "1",
+      "last_updated": "1611586800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/BgnMVa2/"
-      },
-      "last_updated": "1611572400"
+      }
     },
-       "2": {
+    "2": {
       "title": "Chance Encounters",
       "volume": "1",
+      "last_updated": "1612278000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/yJOyBXa/"
-      },
-      "last_updated": "1612263600"
+      }
     },
-        "3": {
+    "3": {
       "title": "On Father's Trail",
       "volume": "1",
+      "last_updated": "1612882800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/ADNzC8A/"
-      },
-      "last_updated": "1612868400"
+      }
     },
-        "4": {
+    "4": {
       "title": "The Unknown Force",
       "volume": "1",
+      "last_updated": "1613487600",
       "groups": {
-        "Kodansha Comics": "/proxy/api/imgur/chapter/TE8aW4f/"
-      },
-      "last_updated": "1613473200"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/czMIlml"
+      }
     },
-        "5": {
+    "5": {
       "title": "The Four Knights of the Apocalypse",
       "volume": "1",
+      "last_updated": "1614092400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/pzoFVud/"
-      },
-      "last_updated": "1614078000"
+      }
     },
-        "6": {
+    "6": {
       "title": "The Next Destination",
       "volume": "2",
+      "last_updated": "1614682800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/XFJP8MX/"
-      },
-      "last_updated": "1614682800"
+      }
     },
-        "7": {
+    "7": {
       "title": "The Demon of Echo Gorge",
       "volume": "2",
+      "last_updated": "1615287600",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/6Tk2qAT/"
-      },
-      "last_updated": "1615287600"
+      }
     },
-        "8": {
+    "8": {
       "title": "Percival the Guinea Pig",
       "volume": "2",
+      "last_updated": "1615892400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/p6QOEat/"
-      },
-      "last_updated": "1615892400"
+      }
     },
-        "9": {
+    "9": {
       "title": "Venom-Mixing Boy",
       "volume": "2",
+      "last_updated": "1616497200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/YbVwFaC/"
-      },
-      "last_updated": "1616497200"
+      }
     },
-        "10": {
+    "10": {
       "title": "Trampling Upon Their Hearts",
       "volume": "2",
+      "last_updated": "1617098400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/IUWOj4h/"
-      },
-      "last_updated": "1617098400"
+      }
     },
-        "11": {
+    "11": {
       "title": "Percival's Rage",
       "volume": "2",
+      "last_updated": "1617703200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/3SWMOtJ/"
-      },
-      "last_updated": "1617703200"
+      }
     },
-        "12": {
+    "12": {
       "title": "It's Showtime!",
       "volume": "2",
+      "last_updated": "1618308000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/rlTofxc/"
-      },
-      "last_updated": "1618308000"
+      }
     },
-        "13": {
+    "13": {
       "title": "A Resolve Further Honed",
       "volume": "2",
+      "last_updated": "1618912800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/gF25XTc/"
-      },
-      "last_updated": "1618912800"
+      }
     },
-        "14": {
+    "14": {
       "title": "The Lonely Young Lady",
       "volume": "2",
+      "last_updated": "1619517600",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/KZyullR/"
-      },
-      "last_updated": "1619517600"
+      }
     },
-        "15": {
+    "15": {
       "title": "Anghalhad and Her Dream",
       "volume": "3",
+      "last_updated": "1620727200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/CeZUBXW/"
-      },
-      "last_updated": "1620727200"
+      }
     },
-        "16": {
+    "16": {
       "title": "Sistana Shaken",
       "volume": "3",
+      "last_updated": "1621332000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/2CeWtjQ/"
-      },
-      "last_updated": "1621332000"
+      }
     },
-        "17": {
+    "17": {
       "title": "Confrontation with Evil",
       "volume": "3",
+      "last_updated": "1621936800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/P1G5GrS/"
-      },
-      "last_updated": "1621936800"
+      }
     },
-        "18": {
+    "18": {
       "title": "Resolve for the Battle",
       "volume": "3",
+      "last_updated": "1622541600",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/YoIsKyB/"
-      },
-      "last_updated": "1622541600"
+      }
     },
-        "19": {
+    "19": {
       "title": "An Act of Evil",
       "volume": "3",
+      "last_updated": "1623146400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/EFWC1Lf/"
-      },
-      "last_updated": "1623146400"
+      }
     },
-        "20": {
+    "20": {
       "title": "The Name of the Magic",
       "volume": "3",
+      "last_updated": "1623751200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/LTamcng/"
-      },
-      "last_updated": "1623751200"
+      }
     },
-        "21": {
+    "21": {
       "title": "Hope",
       "volume": "3",
+      "last_updated": "1624356000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/e9RgtM0/"
-      },
-      "last_updated": "1624356000"
+      }
     },
-        "22": {
+    "22": {
       "title": "Young Heroes",
       "volume": "3",
+      "last_updated": "1624960800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/7Vszw1q/"
-      },
-      "last_updated": "1624960800"
+      }
     },
-        "23": {
+    "23": {
       "title": "Arthur Pendragon",
       "volume": "3",
+      "last_updated": "1626170400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/nugrq8E/"
-      },
-      "last_updated": "1626170400"
+      }
     },
-        "24": {
+    "24": {
       "title": "Who's the Leader?",
       "volume": "4",
+      "last_updated": "1626775200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/HR4bTcF/"
-      },
-      "last_updated": "1626775200"
+      }
     },
-        "25": {
+    "25": {
       "title": "A Thrilling Day in Cant",
       "volume": "4",
+      "last_updated": "1627380000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/rcFbXFh/"
-      },
-      "last_updated": "1627380000"
+      }
     },
-        "26": {
+    "26": {
       "title": "Uncle and Nephew",
       "volume": "4",
+      "last_updated": "1627984800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/92UV4xi/"
-      },
-      "last_updated": "1627984800"
+      }
     },
-        "27": {
+    "27": {
       "title": "Master and Pupil",
       "volume": "4",
+      "last_updated": "1629194400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/SKeflgK/"
-      },
-      "last_updated": "1629194400"
+      }
     },
-        "28": {
+    "28": {
       "title": "Roar of Destruction",
       "volume": "4",
+      "last_updated": "1629799200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/n02N8lt/"
-      },
-      "last_updated": "1629799200"
+      }
     },
-        "29": {
+    "29": {
       "title": "A Boy's Resolve",
       "volume": "4",
+      "last_updated": "1630404000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/4F0Kcpj/"
-      },
-      "last_updated": "1630404000"
+      }
     },
-        "30": {
+    "30": {
       "title": "Raging Storms",
       "volume": "4",
+      "last_updated": "1631008800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/0PHBSMd/"
-      },
-      "last_updated": "1631008800"
+      }
     },
-        "31": {
+    "31": {
       "title": "A real Holy Knight",
       "volume": "4",
+      "last_updated": "1631613600",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/GxbXlsK/"
-      },
-      "last_updated": "1631613600"
+      }
     },
-        "32": {
+    "32": {
       "title": "The Peaks of Fear",
       "volume": "4",
+      "last_updated": "1632218400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/oqbPn7y/"
-      },
-      "last_updated": "1632218400"
+      }
     },
-        "33": {
+    "33": {
       "title": "The Evil Feast",
       "volume": "5",
+      "last_updated": "1632823200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/gF34DEg/"
-      },
-      "last_updated": "1632823200"
+      }
     },
-        "34": {
+    "34": {
       "title": "True Natures Exposed",
       "volume": "5",
+      "last_updated": "1633428000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/jyyp9wd/"
-      },
-      "last_updated": "1633428000"
+      }
     },
-        "35": {
+    "35": {
       "title": "A Sinister Endeavor",
       "volume": "5",
+      "last_updated": "1634032800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/5ZiAVIO/"
-      },
-      "last_updated": "1634032800"
+      }
     },
-        "36": {
+    "36": {
       "title": "Cernunnos, the Mystic Beast",
       "volume": "5",
+      "last_updated": "1634637600",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/Pgl7T74/"
-      },
-      "last_updated": "1634637600"
+      }
     },
-        "37": {
+    "37": {
       "title": "The Cornered",
       "volume": "5",
+      "last_updated": "1635242400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/RoJZMM3/"
-      },
-      "last_updated": "1635242400"
+      }
     },
-        "38": {
+    "38": {
       "title": "The Rescue",
       "volume": "5",
+      "last_updated": "1635850800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/mlG4Inc/"
-      },
-      "last_updated": "1635850800"
+      }
     },
-        "39": {
+    "39": {
       "title": "The Goat Sin",
       "volume": "5",
+      "last_updated": "1636455600",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/s0XXaAa/"
-      },
-      "last_updated": "1636455600"
+      }
     },
-        "40": {
+    "40": {
       "title": "Fearsome Attackers",
       "volume": "5",
+      "last_updated": "1637060400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/CKfRPqg/"
-      },
-      "last_updated": "1637060400"
+      }
     },
-        "41": {
+    "41": {
       "title": "Fissures",
       "volume": "5",
+      "last_updated": "1637665200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/QQEu4hm/"
-      },
-      "last_updated": "1637665200"
+      }
     },
-        "42": {
+    "42": {
       "title": "The Dark Talismans",
       "volume": "6",
+      "last_updated": "1638270000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/WuU4PS9/"
-      },
-      "last_updated": "1638270000"
+      }
     },
-        "43": {
+    "43": {
       "title": "The Intense Battle Unfolds",
       "volume": "6",
+      "last_updated": "1638874800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/HWJqum6/"
-      },
-      "last_updated": "1638874800"
+      }
     },
-        "44": {
+    "44": {
       "title": "The Lost Children",
       "volume": "6",
+      "last_updated": "1640084400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/CPusEf4/"
-      },
-      "last_updated": "1640084400"
+      }
     },
-        "45": {
+    "45": {
       "title": "The Chivalric Code",
       "volume": "6",
+      "last_updated": "1641294000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/NzzKYGD/"
-      },
-      "last_updated": "1641294000"
+      }
     },
-        "46": {
+    "46": {
       "title": "The Realization",
       "volume": "6",
+      "last_updated": "1641898800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/k4D6Osh/"
-      },
-      "last_updated": "1641898800"
+      }
     },
-        "47": {
+    "47": {
       "title": "Final Blow of Desperation",
       "volume": "6",
+      "last_updated": "1642503600",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/AyxZjRM/"
-      },
-      "last_updated": "1642503600"
+      }
     },
-        "48": {
+    "48": {
       "title": "Departing from Sin",
       "volume": "6",
+      "last_updated": "1643108400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/gQA1kho/"
-      },
-      "last_updated": "1643108400"
+      }
     },
-        "49": {
+    "49": {
       "title": "Lancelot",
       "volume": "6",
+      "last_updated": "1643713200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/lATPNco/"
-      },
-      "last_updated": "1643713200"
+      }
     },
-        "50": {
+    "50": {
       "title": "Perplexity",
       "volume": "6",
+      "last_updated": "1644318000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/96w7Aur/"
-      },
-      "last_updated": "1644318000"
+      }
     },
-        "51": {
+    "51": {
       "title": "The King of Liones",
       "volume": "7",
+      "last_updated": "1645441200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/LR6cLag/"
-      },
-      "last_updated": "1645441200"
+      }
     },
-        "52": {
+    "52": {
       "title": "Meliodas and Percival",
       "volume": "7",
+      "last_updated": "1646132400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/c2x3kov/"
-      },
-      "last_updated": "1646132400"
+      }
     },
-        "53": {
+    "53": {
       "title": "Triple Trouble",
       "volume": "7",
+      "last_updated": "1646737200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/OIC7KdF/"
-      },
-      "last_updated": "1646737200"
+      }
     },
-        "54": {
+    "54": {
       "title": "Trickery",
       "volume": "7",
+      "last_updated": "1647342000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/LPyZaUV/"
-      },
-      "last_updated": "1647342000"
+      }
     },
-        "55": {
+    "55": {
       "title": "Tristan",
       "volume": "7",
+      "last_updated": "1647946800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/xhGtzIt/"
-      },
-      "last_updated": "1647946800"
+      }
     },
-        "56": {
+    "56": {
       "title": "Knights of Prophecy Meet",
       "volume": "7",
+      "last_updated": "1648548000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/nK01de4/"
-      },
-      "last_updated": "1648548000"
+      }
     },
-        "57": {
+    "57": {
       "title": "Liones in Panic",
       "volume": "7",
+      "last_updated": "1649152800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/aDWKuXf/"
-      },
-      "last_updated": "1649152800"
+      }
     },
-        "58": {
+    "58": {
       "title": "Creeping Omens",
       "volume": "7",
+      "last_updated": "1649757600",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/d07bfh3/"
-      },
-      "last_updated": "1649757600"
+      }
     },
-        "59": {
+    "59": {
       "title": "Led by the Nose",
       "volume": "7",
+      "last_updated": "1650362400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/ezXvGXx/"
-      },
-      "last_updated": "1650362400"
+      }
     },
-        "60": {
+    "60": {
       "title": "Liones in Flames",
       "volume": "8",
+      "last_updated": "1650967200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/dfrzOHt/"
-      },
-      "last_updated": "1650967200"
+      }
     },
-        "61": {
+    "61": {
       "title": "The Fourth Arrives",
       "volume": "8",
+      "last_updated": "1652176800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/rNR1lCE/"
-      },
-      "last_updated": "1652176800"
+      }
     },
-        "62": {
+    "62": {
       "title": "The Start of a New Legend",
       "volume": "8",
+      "last_updated": "1652781600",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/ylMnv6U/"
-      },
-      "last_updated": "1652781600"
+      }
     },
-        "63": {
+    "63": {
       "title": "Taming a Wild Horse",
       "volume": "8",
+      "last_updated": "1653386400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/XH3KiAJ/"
-      },
-      "last_updated": "1653386400"
+      }
     },
-        "64": {
+    "64": {
       "title": "Those Seeking Revenge",
       "volume": "8",
+      "last_updated": "1653991200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/s2K03GP/"
-      },
-      "last_updated": "1653991200"
+      }
     },
-        "65": {
+    "65": {
       "title": "The Nightmare Anew",
       "volume": "8",
+      "last_updated": "1654596000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/LELDZBo/"
-      },
-      "last_updated": "1654596000"
+      }
     },
-        "66": {
+    "66": {
       "title": "The Assessment",
       "volume": "8",
+      "last_updated": "1654596000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/KFir9eX/"
-      },
-      "last_updated": "1654596000"
+      }
     },
-        "67": {
+    "67": {
       "title": "The Four Knights of Apocalypse vs. Servant of Chaos",
       "volume": "8",
+      "last_updated": "1656410400",
       "groups": {
         "Fan-translation": "/proxy/api/imgur/chapter/qoj42yF/"
-      },
-      "last_updated": "1656410400"
+      }
     },
-        "68": {
+    "68": {
       "title": "Nephilim",
       "volume": "8",
+      "last_updated": "1657015200",
       "groups": {
         "Fan-translation": "/proxy/api/imgur/chapter/eNG4Brx/"
-      },
-      "last_updated": "1657015200"
+      }
     },
-        "69": {
+    "69": {
       "title": "Those Acting Behind the Scenes",
       "volume": "9",
+      "last_updated": "1657620000",
       "groups": {
-        "Fan-translation": "/proxy/api/imgur/chapter/I9ujjkq/"
-      },
-      "last_updated": "1657620000"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/I9ujjkq/"
+      }
     },
-        "70": {
+    "70": {
       "title": "Traitor's Blade",
       "volume": "9",
+      "last_updated": "1658138400",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/ZwmKeoe/"
-      },
-      "last_updated": "1658138400"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/l4haazz/"
+      }
     },
-        "71": {
+    "71": {
       "title": "A Friend's Transformation",
       "volume": "8",
+      "last_updated": "1658743200",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/Gu2j2XJ/"
-      },
-      "last_updated": "1658743200"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/rp4PRnn/"
+      }
     },
-        "72": {
+    "72": {
       "title": "A Freezing, Burning Heart",
       "volume": "9",
+      "last_updated": "1659261600",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/8nFvgC6/"
-      },
-      "last_updated": "1659261600"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/1zvh1S4/"
+      }
     },
-        "73": {
+    "73": {
       "title": "The Demon Melagaland",
       "volume": "9",
+      "last_updated": "1660471200",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/3sdu8No/"
-      },
-      "last_updated": "1660471200"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/pjdMrOA/"
+      }
     },
-        "74": {
+    "74": {
       "title": "A Desperate Resistance",
       "volume": "9",
+      "last_updated": "1661248800",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/NJlnhIc/"
-      },
-      "last_updated": "1661248800"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/yIyNZOw/"
+      }
     },
-        "75": {
+    "75": {
       "title": "Royal Holy Knights vs. Melagaland",
       "volume": "9",
+      "last_updated": "1661940000",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/Ya8KW3e/"
-      },
-      "last_updated": "1661940000"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/qgSJ4nL/"
+      }
     },
-        "76": {
+    "76": {
       "title": "Descent",
       "volume": "9",
+      "last_updated": "1662458400",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/IEJ6S6j/"
-      },
-      "last_updated": "1662458400"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/DJPCpC9/"
+      }
     },
-        "77": {
+    "77": {
       "title": "King's Authority",
       "volume": "9",
+      "last_updated": "1663063200",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/aVYTtQr/"
-      },
-      "last_updated": "1663063200"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/0ZNk2kG/"
+      }
     },
-        "78": {
+    "78": {
       "title": "A King's Pride",
       "volume": "10",
+      "last_updated": "1663668000",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/LfxmhRG/"
-      },
-      "last_updated": "1663668000"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/flMlnCb/"
+      }
     },
-        "79": {
+    "79": {
       "title": "Hyperion",
       "volume": "10",
+      "last_updated": "1664272800",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/NZJj3dU/"
-      },
-      "last_updated": "1664272800"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/oKIARCW/"
+      }
     },
-        "80": {
+    "80": {
       "title": "King Arthur vs. Lancelot",
       "volume": "10",
+      "last_updated": "1665482400",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/OU9ynjT/"
-      },
-      "last_updated": "1665482400"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/Kxne15h/"
+      }
     },
-        "81": {
+    "81": {
       "title": "After the Brawl...",
       "volume": "10",
+      "last_updated": "1666087200",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/FghvbqM/"
-      },
-      "last_updated": "1666087200"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/AIfUSPz/"
+      }
     },
-        "82": {
+    "82": {
       "title": "Their Respective Conflicts",
       "volume": "10",
+      "last_updated": "1666778400",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/RHSFmpZ/"
-      },
-      "last_updated": "1666778400"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/jgezkl2/"
+      }
     },
-        "83": {
+    "83": {
       "title": "Prepared to Part Ways",
       "volume": "10",
+      "last_updated": "1667332800",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/gKuDWHx/"
-      },
-      "last_updated": "1667332800"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/QDTfkro/"
+      }
     },
-        "84": {
+    "84": {
       "title": "Transition of an Era",
       "volume": "10",
+      "last_updated": "1667991600",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/t2BuFZC/"
-      },
-      "last_updated": "1667991600"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/NESLExr/"
+      }
     },
-        "85": {
+    "85": {
       "title": "The Gloom",
       "volume": "10",
+      "last_updated": "1668596400",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/SJPFBeu/"
-      },
-      "last_updated": "1668596400"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/swX8KMe/"
+      }
     },
-        "86": {
+    "86": {
       "title": "Buddings",
       "volume": "10",
+      "last_updated": "1669114800",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/LRark9w/"
-      },
-      "last_updated": "1669114800"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/LRark9w/"
+      }
     },
-        "87": {
+    "87": {
       "title": "Guinevere",
       "volume": "11",
+      "last_updated": "1669723544",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/dPKZdfB/"
-      },
-      "last_updated": "1669723544"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/2jkby40/"
+      }
     },
-        "88": {
+    "88": {
       "title": "Departure",
       "volume": "11",
+      "last_updated": "1671019544",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/ZJd1yry/"
-      },
-      "last_updated": "1671019544"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/O0NiqnY/"
+      }
     },
-        "89": {
+    "89": {
       "title": "The Four Knights Set Off!",
       "volume": "11",
+      "last_updated": "1672229144",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/DT0Ymd1/"
-      },
-      "last_updated": "1672229144"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/YAAa5Pr/"
+      }
     },
-        "90": {
+    "90": {
       "title": "The Bride's Greeting",
       "volume": "11",
+      "last_updated": "1673438744",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/xYb3em3/"
-      },
-      "last_updated": "1673438744"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/CtBTdL8/"
+      }
     },
-        "91": {
+    "91": {
       "title": "Confrontation",
       "volume": "11",
+      "last_updated": "1674644400",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/GYVT9Xl/"
-      },
-      "last_updated": "1674644400"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/BwMQaOq/"
+      }
     },
-        "92": {
+    "92": {
       "title": "The Great Wolnack Search",
       "volume": "11",
+      "last_updated": "1675249200",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/l9hyZBf/"
-      },
-      "last_updated": "1675249200"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/5OHKbrz/"
+      }
     },
-        "93": {
+    "93": {
       "title": "Madrigal of Youth",
       "volume": "11",
+      "last_updated": "1675767600",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/Alerjqr/"
-      },
-      "last_updated": "1675767600"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/KNkNQ4V/"
+      }
     },
-        "94": {
+    "94": {
       "title": "Occurrence on the Night of Prayer",
       "volume": "11",
+      "last_updated": "1676372400",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/eJBg73a/"
-      },
-      "last_updated": "1676372400"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/TOFXEc7/"
+      }
     },
-        "95": {
+    "95": {
       "title": "Assassins in the Dark Night",
       "volume": "11",
+      "last_updated": "1676977200",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/RsaMR7n/"
-      },
-      "last_updated": "1676977200"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/Klk6jEU/"
+      }
     },
-        "96": {
+    "96": {
       "title": "City of Battle",
       "volume": "12",
+      "last_updated": "1677582000",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/0HpC9XE/"
-      },
-      "last_updated": "1677582000"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/Bq44Mti/"
+      }
     },
-        "97": {
+    "97": {
       "title": "The Never-Ending Requiem",
       "volume": "12",
+      "last_updated": "1678186800",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/gvnSaQ4/"
-      },
-      "last_updated": "1678186800"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/IHlAHa7/"
+      }
     },
-        "98": {
+    "98": {
       "title": "Death Pays a Visit",
       "volume": "12",
+      "last_updated": "1678791600",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/cUA0K9s/"
-      },
-      "last_updated": "1678791600"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/MwqBGEn/"
+      }
     },
-        "99": {
+    "99": {
       "title": "Unable to Be Said",
       "volume": "12",
+      "last_updated": "1679396400",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/CQkDuYW/"
-      },
-      "last_updated": "1679396400"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/DDvn2jG/"
+      }
     },
-        "100": {
+    "100": {
       "title": "Flames of Reminiscence",
       "volume": "12",
+      "last_updated": "1679911200",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/DXdeRx5/"
-      },
-      "last_updated": "1679911200"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/UFJhVcz/"
+      }
     },
-        "101": {
+    "101": {
       "title": "Shredded Hearts",
       "volume": "12",
+      "last_updated": "1681034400",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/yURJO9Z/"
-      },
-      "last_updated": "1681034400"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/dqeKmFT/"
+      }
     },
-        "102": {
+    "102": {
       "title": "The Crazed King",
       "volume": "12",
+      "last_updated": "1681639200",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/FEwi5GM/"
-      },
-      "last_updated": "1681639200"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/M7buidX/"
+      }
     },
-        "103": {
+    "103": {
       "title": "To the Demon realm",
       "volume": "12",
+      "last_updated": "1682244000",
       "groups": {
-        "Sorcerer Weekly": "/proxy/api/imgur/chapter/Hgz0N1w/"
-      },
-      "last_updated": "1682244000"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/fyamhUV/"
+      }
     },
-        "104": {
+    "104": {
       "title": "Intrusion into Demonity",
       "volume": "12",
+      "last_updated": "1683712800",
       "groups": {
-        "Kodansha Comics": "/proxy/api/imgur/chapter/x7R1kSq/"
-      },
-      "last_updated": "1683712800"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/93TlDUP/"
+      }
     },
-        "105": {
+    "105": {
       "title": "A Demonic Welcome",
       "volume": "13",
+      "last_updated": "1684231200",
       "groups": {
-        "Kodansha Comics": "/proxy/api/imgur/chapter/UcGwAis/"
-      },
-      "last_updated": "1684231200"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/ckHzLhv/"
+      }
     },
-        "106": {
+    "106": {
       "title": "The Savior",
       "volume": "13",
+      "last_updated": "1684836000",
       "groups": {
-        "Kodansha Comics": "/proxy/api/imgur/chapter/Oc6kcKO/"
-      },
-      "last_updated": "1684836000"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/dc6qMyv/"
+      }
     },
-        "107": {
+    "107": {
       "title": "The Wild Child's Solitude",
       "volume": "13",
+      "last_updated": "1685440800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/T3fgKcD/"
-      },
-      "last_updated": "1685440800"
+      }
     },
-        "107.5": {
-      "title": "Bonus: The Perils of Chion",
-      "volume": "13",
-      "groups": {
-        "Kodansha Comics": "/proxy/api/imgur/chapter/Vk2Vl31/"
-      },
-      "last_updated": "1686060000"
-    },
-        "108": {
+    "108": {
       "title": "Calamity Behemoth",
       "volume": "13",
+      "last_updated": "1686650400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/jqkUa6s/"
-      },
-      "last_updated": "1686650400"
+      }
     },
-        "109": {
+    "109": {
       "title": "A Trying Week",
       "volume": "13",
+      "last_updated": "1687255200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/cXtgLFL/"
-      },
-      "last_updated": "1687255200"
+      }
     },
-        "110": {
+    "110": {
       "title": "In Pursuit of Strength",
       "volume": "13",
+      "last_updated": "1687860000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/qVGOowI/"
-      },
-      "last_updated": "1687860000"
+      }
     },
-        "111": {
+    "111": {
       "title": "Me Today Over Me Yesterday",
       "volume": "13",
+      "last_updated": "1688464800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/xsMp717/"
-      },
-      "last_updated": "1688464800"
-    }
-        "112": {
+      }
+    },
+    "112": {
       "title": "Wavering Hearts",
       "volume": "13",
+      "last_updated": "1689084000",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/MzWFWsF/"
-      },
-      "last_updated": "1689084000"
-    }
-        "113": {
+      }
+    },
+    "113": {
       "title": "Zarura N'du",
       "volume": "13",
+      "last_updated": "1689688800",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/FVx9jcK/"
-      },
-      "last_updated": "1689688800"
-    }
-        "114": {
+      }
+    },
+    "114": {
       "title": "The Mission Begins",
       "volume": "14",
+      "last_updated": "1690293600",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/1wJykn2/"
-      },
-      "last_updated": "1690293600"
-    }
-        "115": {
+      }
+    },
+    "115": {
       "title": "The Battle of the Albion",
       "volume": "14",
+      "last_updated": "1690898400",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/bJk7QP2/"
-      },
-      "last_updated": "1690898400"
-    }
-        "116": {
+      }
+    },
+    "116": {
       "title": "The Boy of Destiny",
       "volume": "14",
+      "last_updated": "1691503200",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/Ybc87TC/"
-      },
-      "last_updated": "1691503200"
-    }
+      }
+    },
   }
 }
