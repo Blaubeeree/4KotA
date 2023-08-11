@@ -978,9 +978,7 @@
       "volume": "13",
       "last_updated": "1689688800",
       "groups": {
-        "Kodansha Comics": [
-          "https://imgur.com/a/FVx9jcK"
-        ]
+        "Kodansha Comics": "/proxy/api/imgur/chapter/FVx9jcK"
       }
     },
     "114": {
@@ -988,9 +986,7 @@
       "volume": "14",
       "last_updated": "1690293600",
       "groups": {
-        "Kodansha Comics": [
-          "https://imgur.com/a/1wJykn2"
-        ]
+        "Kodansha Comics": "/proxy/api/imgur/chapter/1wJykn2"
       }
     },
     "115": {
@@ -998,9 +994,7 @@
       "volume": "14",
       "last_updated": "1690898400",
       "groups": {
-        "Kodansha Comics": [
-          "https://imgur.com/a/bJk7QP2"
-        ]
+        "Kodansha Comics": "/proxy/api/imgur/chapter/bJk7QP2"
       }
     },
     "116": {
@@ -1008,9 +1002,7 @@
       "volume": "14",
       "last_updated": "1691503200",
       "groups": {
-        "Kodansha Comics": [
-          "https://imgur.com/a/Ybc87TC"
-        ]
+        "Kodansha Comics": "/proxy/api/imgur/chapter/Ybc87TC"
       }
     }
   }
