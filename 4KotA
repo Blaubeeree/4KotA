@@ -900,7 +900,7 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/MzWFWsF/"
       }
-    }
+    },
     "113": {
       "title": "Zarura N'du",
       "volume": "13",
@@ -908,7 +908,7 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/FVx9jcK/"
       }
-    }
+    },
     "114": {
       "title": "The Mission Begins",
       "volume": "14",
@@ -916,7 +916,7 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/1wJykn2/"
       }
-    }
+    },
     "115": {
       "title": "The Battle of the Albion",
       "volume": "14",
@@ -924,7 +924,7 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/bJk7QP2/"
       }
-    }
+    },
     "116": {
       "title": "The Boy of Destiny",
       "volume": "14",
@@ -932,6 +932,6 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/Ybc87TC/"
       }
-    }
+    },
   }
 }
