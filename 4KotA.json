@@ -688,9 +688,30 @@
     "86": {
       "title": "Buddings",
       "volume": "10",
-      "last_updated": "1669114800",
+      "last_updated": "1692712800",
       "groups": {
-        "Kodansha Comics": "/proxy/api/imgur/chapter/LRark9w/"
+        "Kodansha Comics": [
+          "https://i.imgur.com/skFdns3.png",
+          "https://i.imgur.com/UCvpjX0.png",
+          "https://i.imgur.com/nFqMLcd.png",
+          "https://i.imgur.com/x3wSCbr.png",
+          "https://i.imgur.com/S8933Ka.png",
+          "https://i.imgur.com/rm755Of.png",
+          "https://i.imgur.com/S9TQsB2.png",
+          "https://i.imgur.com/X4ac10u.png",
+          "https://i.imgur.com/RpSgoXw.png",
+          "https://i.imgur.com/4LCv1k6.png",
+          "https://i.imgur.com/BmcUu2O.png",
+          "https://i.imgur.com/EERX4E7.png",
+          "https://i.imgur.com/gzevPxF.png",
+          "https://i.imgur.com/Nz1uIjW.png",
+          "https://i.imgur.com/eBugFNF.png",
+          "https://i.imgur.com/HiC5Vqz.png",
+          "https://i.imgur.com/EtJ7Pbs.png",
+          "https://i.imgur.com/OYNc8UX.png",
+          "https://i.imgur.com/jqqGhlF.png",
+          "https://i.imgur.com/BzwtZFR.png"
+        ]
       }
     },
     "87": {
