@@ -900,6 +900,16 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/MzWFWsF/"
       }
+    },
+    "113": {
+      "title": "113",
+      "volume": "13",
+      "last_updated": "1689688800",
+      "groups": {
+        "Kodansha Comics": [
+          "https://imgur.com/a/FVx9jcK"
+        ]
+      }
     }
   }
 }
