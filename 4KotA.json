@@ -1004,6 +1004,22 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/Ybc87TC"
       }
+    },
+    "117": {
+      "title": "Vaz Zigra",
+      "volume": "14",
+      "last_updated": "1692698400",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/NjVIG1A"
+      }
+    },
+    "118": {
+      "title": "The Battle Trigger",
+      "volume": "14",
+      "last_updated": "1693303200",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/9m2kiJt"
+      }
     }
   }
 }
