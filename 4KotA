@@ -1020,6 +1020,14 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/9m2kiJt"
       }
+    },
+    "119": {
+      "title": "Clash! Clash! Clash!",
+      "volume": "14",
+      "last_updated": "1693922400",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/rnKo2Qk"
+      }
     }
   }
 }
