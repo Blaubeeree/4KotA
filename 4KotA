@@ -1028,6 +1028,54 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/rnKo2Qk"
       }
+    },
+    "120": {
+      "title": "Banquet for Braves",
+      "volume": "14",
+      "last_updated": "1694530800",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/703LQWg"
+      }
+    },
+    "121": {
+      "title": "If Not You, Then Who?",
+      "volume": "14",
+      "last_updated": "1695135600",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/yXulRpr"
+      }
+    },
+    "122": {
+      "title": "The Washouts",
+      "volume": "14",
+      "last_updated": "1695740400",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/PFbKLsF"
+      }
+    },
+    "123": {
+      "title": "Resolve",
+      "volume": "15",
+      "last_updated": "1696345200",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/HMn5iD7"
+      }
+    },
+    "124": {
+      "title": "Realm of a Master",
+      "volume": "15",
+      "last_updated": "1696950000",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/ZveYDe9"
+      }
+    },
+    "125": {
+      "title": "Knight of \"War\"",
+      "volume": "15",
+      "last_updated": "1697554800",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/9HllKx0"
+      }
     }
   }
 }
