@@ -1076,6 +1076,14 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/9HllKx0"
       }
+    },
+    "126": {
+      "title": "Prayer",
+      "volume": "15",
+      "last_updated": "1698159600",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/121yvwf"
+      }
     }
   }
 }
