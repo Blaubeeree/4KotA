@@ -1083,6 +1083,22 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/121yvwf"
       }
+    },
+    "127": {
+      "title": "The Day You Were Born",
+      "volume": "15",
+      "last_updated": "1698764400",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/3s1cK9B"
+      }
+    },
+    "128": {
+      "title": "The Day You Went Away",
+      "volume": "15",
+      "last_updated": "1699369200",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/P4Wb7M6"
+      }
     }
   }
 }
