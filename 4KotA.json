@@ -1099,6 +1099,14 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/P4Wb7M6"
       }
+    },
+    "129": {
+      "title": "Invasion",
+      "volume": "15",
+      "last_updated": "1700578800",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/geoNGXO"
+      }
     }
   }
 }
