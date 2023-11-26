@@ -604,7 +604,27 @@
       "volume": "9",
       "last_updated": "1657620000",
       "groups": {
-        "Kodansha Comics": "/proxy/api/imgur/chapter/I9ujjkq/"
+        "Kodansha Comics": [
+          "https://i.imgur.com/E6PyPLN.png",
+          "https://i.imgur.com/jQ0BEkE.png",
+          "https://i.imgur.com/sZaEMM5.png",
+          "https://i.imgur.com/ndpjRg8.png",
+          "https://i.imgur.com/9Qr2AGA.png",
+          "https://i.imgur.com/fRAvvLb.png",
+          "https://i.imgur.com/t3laj1x.png",
+          "https://i.imgur.com/zYgdEpA.png",
+          "https://i.imgur.com/JRvpy5r.png",
+          "https://i.imgur.com/1rKixX9.png",
+          "https://i.imgur.com/3BPoihr.png",
+          "https://i.imgur.com/9YWB3y6.png",
+          "https://i.imgur.com/HuftW5B.png",
+          "https://i.imgur.com/w6LfUoo.png",
+          "https://i.imgur.com/5nSHMy8.png",
+          "https://i.imgur.com/KdSpCDg.png",
+          "https://i.imgur.com/OUBKnSF.png",
+          "https://i.imgur.com/ea66dGq.png",
+          "https://i.imgur.com/Jsqz4sv.png"
+        ]
       }
     },
     "70": {
