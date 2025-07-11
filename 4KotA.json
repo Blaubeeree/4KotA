@@ -1135,6 +1135,14 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/1Lm0jOt"
       }
+    },
+    "131": {
+      "title": "In Search of Hope",
+      "volume": "15",
+      "last_updated": "1752241117",
+      "groups": {
+        "Kodansha Comics": "https://cubari.moe/read/imgur/J6Rz0Sg/1/1/"
+      }
     }
   }
 }
