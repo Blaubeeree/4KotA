@@ -1139,9 +1139,81 @@
     "131": {
       "title": "In Search of Hope",
       "volume": "15",
-      "last_updated": "1752241117",
+      "last_updated": "1701787117",
       "groups": {
-        "Kodansha Comics": "https://cubari.moe/read/imgur/J6Rz0Sg/1/1/"
+        "Kodansha Comics": "/proxy/api/imgur/chapter/4kota-131-ftl-J6Rz0Sg"
+      }
+    },
+    "132": {
+      "title": "The Resisters",
+      "volume": "16",
+      "last_updated": "1702997320",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvZm91ci1rbmlnaHRzLW9mLXRoZS1hcG9jYWx5cHNlLjI1NjI2L2MxMzI=/"
+      }
+    },
+    "133": {
+      "title": "Bisection",
+      "volume": "16",
+      "last_updated": "1703602571",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvZm91ci1rbmlnaHRzLW9mLXRoZS1hcG9jYWx5cHNlLjI1NjI2L2MxMzM=/"
+      }
+    },
+    "134": {
+      "title": "The Stranger",
+      "volume": "16",
+      "last_updated": "1705417358",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/four-knights-of-apocalypse-chapter-134-stranger-QwGLhxn"
+      }
+    },
+    "135": {
+      "title": "The Conversation",
+      "volume": "16",
+      "last_updated": "1706022222",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/four-knights-of-apocalypse-chapter-135-conversation-uQH56DA"
+      }
+    },
+    "136": {
+      "title": "The Advancing Dragnet",
+      "volume": "16",
+      "last_updated": "1706627096",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/four-knights-of-apocalypse-chapter-136-advancing-dragnet-SCSzqj1"
+      }
+    },
+    "137": {
+      "title": "Forest of Sloth and Envy",
+      "volume": "16",
+      "last_updated": "1707231959",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/O6zvNcY"
+      }
+    },
+    "138": {
+      "title": "Nasiens in the Fairy King's Forest",
+      "volume": "16",
+      "last_updated": "1707836814",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/138-mMCGGro"
+      }
+    },
+    "139": {
+      "title": "Unseen Pain",
+      "volume": "16",
+      "last_updated": "1708441681",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvZm91ci1rbmlnaHRzLW9mLXRoZS1hcG9jYWx5cHNlLjI1NjI2L2MxMzk=/"
+      }
+    },
+    "140": {
+      "title": "The Shape of Truth",
+      "volume": "16",
+      "last_updated": "1709046540",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/4kota-140-zc8uTAd"
       }
     }
   }
