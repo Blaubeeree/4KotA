@@ -1756,6 +1756,14 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/200-uKlT0sB"
       }
+    },
+    "201": {
+      "title": "Envoy from the Abyss",
+      "volume": "22",
+      "last_updated": "1753205512",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/201-envoy-from-abyss-XGz5Llr"
+      }
     }
   }
 }
