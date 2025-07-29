@@ -1691,7 +1691,7 @@
     },
     "195": {
       "title": "Tristan and Isolde",
-      "volume": "22",
+      "volume": "23",
       "last_updated": "1749577183",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/chapter-195-E9uW97q"
@@ -1699,7 +1699,7 @@
     },
     "196": {
       "title": "Despair and Hope",
-      "volume": "22",
+      "volume": "23",
       "last_updated": "1750182033",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/196-my9uFVc"
@@ -1707,7 +1707,7 @@
     },
     "197": {
       "title": "Grampa's Wish",
-      "volume": "22",
+      "volume": "23",
       "last_updated": "1750786891",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/chapter-197-MGwXZVY"
@@ -1715,7 +1715,7 @@
     },
     "198": {
       "title": "Percival vs. Diodora",
-      "volume": "22",
+      "volume": "23",
       "last_updated": "1751391758",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/198-eFaBYcY"
@@ -1723,7 +1723,7 @@
     },
     "199": {
       "title": "The Visitor",
-      "volume": "22",
+      "volume": "23",
       "last_updated": "1751996616",
       "groups": {
         "Kodansha Comics": [
@@ -1751,7 +1751,7 @@
     },
     "200": {
       "title": "Now or Never!",
-      "volume": "22",
+      "volume": "23",
       "last_updated": "1752601489",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/200-uKlT0sB"
@@ -1759,10 +1759,18 @@
     },
     "201": {
       "title": "Envoy from the Abyss",
-      "volume": "22",
+      "volume": "23",
       "last_updated": "1753205512",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/201-envoy-from-abyss-XGz5Llr"
+      }
+    },
+    "202": {
+      "title": "The Truest of Evils",
+      "volume": "23",
+      "last_updated": "1753816844",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/chapter-202-PYoTDmq"
       }
     }
   }
