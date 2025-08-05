@@ -1778,26 +1778,7 @@
       "volume": "23",
       "last_updated": "1754417395",
       "groups": {
-        "Kodansha Comics": [
-          "https://i.redd.it/b19xcs3708hf1.jpg",
-          "https://i.redd.it/5mtg6r3708hf1.jpg",
-          "https://i.redd.it/ctogpr3708hf1.jpg",
-          "https://i.redd.it/chocyr3708hf1.jpg",
-          "https://i.redd.it/tsyxir3708hf1.jpg",
-          "https://i.redd.it/ydlq9r3708hf1.jpg",
-          "https://i.redd.it/mp1v5s3708hf1.jpg",
-          "https://i.redd.it/kddyis3708hf1.jpg",
-          "https://i.redd.it/6rhfws3708hf1.jpg",
-          "https://i.redd.it/315eat3708hf1.jpg",
-          "https://i.redd.it/xvsegu3708hf1.jpg",
-          "https://i.redd.it/cp6qqt3708hf1.jpg",
-          "https://i.redd.it/w0ey1v3708hf1.jpg",
-          "https://i.redd.it/fbmt1u3708hf1.jpg",
-          "https://i.redd.it/t6buyi5708hf1.jpg",
-          "https://i.redd.it/m1laov3708hf1.jpg",
-          "https://i.redd.it/nb4gev3708hf1.jpg",
-          "https://i.redd.it/i0tqhx3708hf1.jpg"
-        ]
+        "Kodansha Comics": "/proxy/api/imgur/chapter/chapter-203-KRFm5eK"
       }
     }
   }
