@@ -1780,6 +1780,14 @@
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/chapter-203-KRFm5eK"
       }
+    },
+    "204": {
+      "title": "A fleeting resistance",
+      "volume": "23",
+      "last_updated": "1755622918",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/chapter-204-xRpslci"
+      }
     }
   }
 }
