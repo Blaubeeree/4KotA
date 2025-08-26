@@ -1774,7 +1774,7 @@
       }
     },
     "203": {
-      "title": "Light of the future",
+      "title": "Light of the Future",
       "volume": "23",
       "last_updated": "1754417395",
       "groups": {
@@ -1782,11 +1782,19 @@
       }
     },
     "204": {
-      "title": "A fleeting resistance",
-      "volume": "23",
+      "title": "A Fleeting Resistance",
+      "volume": "24",
       "last_updated": "1755622918",
       "groups": {
         "Kodansha Comics": "/proxy/api/imgur/chapter/chapter-204-xRpslci"
+      }
+    },
+    "205": {
+      "title": "By His Strength",
+      "volume": "24",
+      "last_updated": "1756228887",
+      "groups": {
+        "Kodansha Comics": "/proxy/api/imgur/chapter/4kota-chapter-205-vcgFa7m"
       }
     }
   }
